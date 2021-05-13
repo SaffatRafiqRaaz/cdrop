@@ -1,1 +1,6 @@
-First download and install Xampp. Run Xampp control and start apache and mysql services. Then open browser and go to http://localhost/phpmyadmin. There create two databases named 'cdrop' and 'mydata'. Import the sqlfiles to their respective database using import tab. Create a folder named cdrop inside htdocs folder of Xampp and copy css,js and other php files there. Now we can run the website by going to http://localhost/cdrop.
+First download and install Xampp. Run Xampp control and start apache and mysql services. 
+Then open browser and go to http://localhost/phpmyadmin. 
+There create two databases named 'cdrop' and 'mydata'. 
+Import the sqlfiles to their respective database using import tab. 
+Create a folder named cdrop inside htdocs folder of Xampp and copy css,js and other php files there. 
+Now we can run the website by going to http://localhost/cdrop.
